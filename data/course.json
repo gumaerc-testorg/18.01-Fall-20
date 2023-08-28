@@ -25,6 +25,7 @@
     "website": "1801-calculus-i-single-variable-calculus"
   },
   "course_title": "Calculus I: Single Variable Calculus",
+  "hide_download": true,
   "course_description": "Master the calculus of derivatives, integrals, coordinate systems, and infinite series.\n\nIn this three-part series you will learn the mathematical notation, physical meaning, and geometric interpretation of a variety of calculus concepts. Along with the fundamental computational skills required to solve these problems, you will also gain insight into real-world applications of these mathematical ideas.\n\n- [Part 1: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)\n- [Part 2: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)\n- [Part 3: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)\n\nThis series of courses is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the courses if you want to track your progress, or you can view and use all the materials without enrolling.",
   "department_numbers": [
     "18"
