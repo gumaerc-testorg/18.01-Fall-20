@@ -3,15 +3,15 @@ leftnav:
   name: Instructor Insights
   pageRef: /pages/instructor-insights
   weight: 10
-- identifier: external-1897153558-1649874606155
+- identifier: 9201f1e9-a249-49d1-abf0-5f1c23af6038
   name: 'Part 1: Differentiation'
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about
+  pageRef: /external-resources/part-1-differentiation_9201f1e9-a249-49d1-abf0-5f1c23af6038
   weight: 20
-- identifier: external--761179210-1649874626455
+- identifier: b8fbb007-fed4-4c6c-adde-d1dc5d0ca6c2
   name: 'Part 2: Integration'
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about
+  pageRef: /external-resources/part-2-integration_b8fbb007-fed4-4c6c-adde-d1dc5d0ca6c2
   weight: 30
-- identifier: external--1461548337-1649874647356
+- identifier: e19bc5ac-1801-441f-9c39-71b8cd23b80b
   name: 'Part 3: Coordinate Systems & Infinite Series'
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about
+  pageRef: /external-resources/part-3-coordinate-systems-infinite-series_e19bc5ac-1801-441f-9c39-71b8cd23b80b
   weight: 40
