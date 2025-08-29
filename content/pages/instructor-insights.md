@@ -10,4 +10,4 @@ Professor Gigliola Staffilani, who teaches in MIT’s Department of Mathematics,
 
 In the episode of the Chalk Radio podcast embedded below, Prof. Staffilani discusses her efforts to make calculus less abstract and more intuitive for learners–efforts that draw on a diverse mix of teaching tools and props: digital applets, sketching tools, bagels, croissants, donuts, and even a balloon in a box. She also discusses her commitment to increasing equity and fighting implicit bias in her field.
 
-{{< simplecast "7b6985f1-d58b-4e0f-b667-8affc7a19be2" >}}
+{{< resource uuid="fd27009c-bdfe-45a1-b0cb-fb20165da87b" >}}
